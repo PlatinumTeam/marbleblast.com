@@ -1,0 +1,65 @@
+{
+  "name": "pq",
+  "gamename": "PlatinumQuest",
+  "shortname": "PQ",
+  "image": "https://marble.thearst3rd.com/pq/config/pq.jpg",
+  "prunelist": {
+    "mac": "https://marble.thearst3rd.com/pq/where/yeahboii-2/delete-mac.json",
+    "macold": "https://marble.thearst3rd.com/pq/where/yeahboii-2/delete-mac.json",
+    "windows": "https://marble.thearst3rd.com/pq/where/yeahboii-2/delete-win.json",
+    "other": "https://marble.thearst3rd.com/pq/where/yeahboii-2/delete-win.json"
+  },
+  "packages": {
+    "mac": "https://marble.thearst3rd.com/pq/where/yeahboii-2/packages-mac.json",
+    "macold": "https://marble.thearst3rd.com/pq/where/yeahboii-2/packages-mac.json",
+    "windows": "https://marble.thearst3rd.com/pq/where/yeahboii-2/packages-win.json",
+    "other": "https://marble.thearst3rd.com/pq/where/yeahboii-2/packages-win.json"
+  },
+  "listing": {
+    "mac": "https://marble.thearst3rd.com/pq/where/yeahboii-2/listing-mac.json",
+    "macold": "https://marble.thearst3rd.com/pq/where/yeahboii-2/listing-mac.json",
+    "windows": "https://marble.thearst3rd.com/pq/where/yeahboii-2/listing-win.json",
+    "other": "https://marble.thearst3rd.com/pq/where/yeahboii-2/listing-win.json"
+  },
+  "conversions": "https://marble.thearst3rd.com/pq/config/conversions.json",
+  "migrations": "https://marble.thearst3rd.com/pq/config/migrations.json",
+  "searches": "https://marble.thearst3rd.com/pq/config/searches.json",
+  "prefsfile": "/platinum/client/MBPPrefs.cs",
+  "lineending": "\r\n",
+  "opensub": "/platinum/",
+  "rootname": "platinum",
+  "title": "PlatinumQuest Launcher",
+  "news": {
+    "mac": "https://marble.thearst3rd.com/pq/news.php?os=mac",
+    "macold": "https://marble.thearst3rd.com/pq/news.php?os=macold",
+    "windows": "https://marble.thearst3rd.com/pq/news.php?os=windows",
+    "other": "https://marble.thearst3rd.com/pq/news.php?os=other"
+  },
+  "changelog": "https://marble.thearst3rd.com/pq/changelog.php",
+  "doconsolepost": "true",
+  "consolepost": "http://marble.thearst3rd.com/leader/consoletest.php",
+  "consoleposttitle": "Crash Detected",
+  "consolepostmessage": "PlatinumQuest appears to have crashed. Send your console?",
+  "consolepostattachmentname": "console",
+  "consolepostattachmentfile": "console.zip",
+  "consolepostcrashattachmentname": "crash",
+  "consolepostcrashattachmentfile": "crash.zip",
+  "offlinetitle": "Game Offline",
+  "offlinemessage": "PlatinumQuest could not load the latest updates; you may be offline. Should Launcher open PlatinumQuest without updating?",
+  "canimportprefs": true,
+  "docopyprefs": "false",
+  "copydata": {
+    "/platinumbeta/client/config.cs": "/platinum/client/config.cs",
+    "/platinumbeta/client/lbprefs.cs": "/platinum/client/lbprefs.cs",
+    "/platinumbeta/client/MBPPrefs.cs": "/platinum/client/MBPPrefs.cs",
+    "/platinumbeta/core/editor/WEprefs.cs": "/platinum/core/editor/WEprefs.cs",
+    "/platinumbeta/leaderboards/multiplayer/prefs.cs": "/platinum/leaderboards/multiplayer/prefs.cs"
+  },
+  "launchpath": {
+    "mac": "/Contents/MacOS/MBExtender",
+    "macold": "/Contents/MacOS/MBExtender",
+    "windows": "/marbleblast.exe",
+    "other": "/marbleblast.exe"
+  },
+  "customlist": "http://dev.marble.thearst3rd.com/modules/mod_levels/tmpl/levelList.php"
+}
