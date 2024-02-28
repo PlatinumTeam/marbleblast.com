@@ -1,0 +1,24 @@
+{
+  "launchermd5": {
+    "mac": "9c5a18627b9ff7817b59f32f3f85c729",
+    "windows": "0dea918bd755d772d8cebaa17605cae3",
+    "other": "0dea918bd755d772d8cebaa17605cae3",
+    "macold": "9c5a18627b9ff7817b59f32f3f85c729"
+  },
+  "selfupdate": {
+    "mac": "true",
+    "windows": "true",
+    "other": "true",
+    "macold": "true"
+  },
+  "launcher": {
+    "mac": "http://files.marbleblast.com/launcher/MBLauncher.jar",
+    "windows": "http://files.marbleblast.com/launcher/MBLauncher.exe",
+    "other": "http://files.marbleblast.com/launcher/MBLauncher.exe",
+    "macold": "http://files.marbleblast.com/launcher/MBLauncher.jar"
+  },
+  "customlist": "http://dev.marbleblast.com/modules/mod_levels/tmpl/levelList.php",
+  "defaultmods": {
+    "https://marbleblast.com/pq/config/config.json": "platinum"
+  }
+}
